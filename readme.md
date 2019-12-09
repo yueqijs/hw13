@@ -6,14 +6,14 @@ Motion/light interaction.
 
 ## Components
 
-1x Arduino Uno
-1x Breadboard
-1x HC-SRO4 Ultrasonic Sensor
-3x LEDs
-3x 330 ohm Resistors
-A lot of jumper wires
+- 1x Arduino Uno
+- 1x Breadboard
+- 1x HC-SRO4 Ultrasonic Sensor
+- 3x LEDs
+- 3x 330 ohm Resistors
+- A lot of jumper wires
 
-#Progress
+## Progress
 - First week, I purchased the leds and ultrasonic sensor. I learn how to make led responsive to the motion caught by ultrasonic sensor. 
 - Secon dweek, I purchased the upgraded 8x8 panel borad for LED display. However, I panel wasn't coming with an integrated output to connect to the breadboard. 
 So I integrated more individual led lights. 
